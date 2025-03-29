@@ -1,0 +1,18 @@
+Biografia do Scripty
+Scripty é uma ferramenta desenvolvida por Isaac Sérgio dos Santos Bezerra com o objetivo de automatizar e facilitar a criação de scripts e a gestão de tarefas repetitivas. Focada em melhorar a produtividade, a ferramenta permite a personalização e adaptação a diferentes projetos, desde o envio de e-mails automatizados até o cadastro de registros no sistema.
+
+Scripty se destaca pela sua simplicidade e eficácia, ajudando desenvolvedores e usuários a economizar tempo e otimizar processos, com foco em soluções práticas e rápidas.
+
+================================================================================================================================================================================
+Funcionalidade do Programa
+O Scripty funciona em duas partes principais:
+
+1. Aba de Início e Registro
+A primeira parte do programa visa agilizar processos de extração de informações, registro de documentos e até vendas de produtos. A partir disso, o sistema coleta informações do colaborador e, assim que as salva, essas informações são registradas em uma planilha oculta e bloqueada, acessível apenas aos operadores. Essa abordagem garante que os dados sejam armazenados de forma segura e organizada.
+================================================================================================================================================================================
+2. E-mails de Notificação
+A segunda parte do programa funciona como uma ferramenta de notificação. Pensando na possibilidade de o colaborador esquecer de enviar registros, o Scripty envia um e-mail de lembrete a cada dois dias, informando que a tarefa ainda está pendente.
+
+Na aba de E-mails, você poderá registrar toda a sua equipe, organizando os endereços de e-mail de forma estruturada. Isso possibilita uma automação que transforma um processo que normalmente levaria dias em uma tarefa concluída com um simples clique.
+
+Após a publicação do programa, todas as informações utilizadas para testes serão removidas, e você poderá configurar os e-mails que desejar utilizar, garantindo um processo mais eficiente e organizado.

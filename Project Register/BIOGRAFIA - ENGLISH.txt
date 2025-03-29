@@ -1,0 +1,17 @@
+Scripty Biography
+Scripty is a tool developed by Isaac Sérgio dos Santos Bezerra with the aim of automating and simplifying script creation and the management of repetitive tasks. Focused on improving productivity, the tool allows customization and adaptation for various projects, from automated email sending to record registration in the system.
+
+Scripty stands out for its simplicity and effectiveness, helping developers and users save time and optimize processes, with a focus on practical and fast solutions.
+================================================================================================================================================================================================================================
+Program Functionality
+Scripty works in two main parts:
+
+1. Start and Registration Tab
+The first part of the program aims to streamline processes for extracting information, registering documents, and even sales of products. From this, the system collects collaborator information and, once saved, these details are stored in a hidden and locked spreadsheet, accessible only to operators. This ensures that the data is stored securely and in an organized manner.
+================================================================================================================================================================================================================================
+2. Notification Emails
+The second part of the program functions as a notification tool. Considering the possibility of a collaborator forgetting to submit records, Scripty sends a reminder email every two days, informing that the task is still pending.
+
+In the Emails tab, you can register your entire team, organizing email addresses in an orderly manner. This enables automation that transforms a process that would normally take days into a task completed with a single click.
+
+After the program is published, all information used for testing will be removed, and you can configure the emails you wish to use, ensuring a more efficient and organized process.
